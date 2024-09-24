@@ -1,6 +1,6 @@
 # Neural Network MNIST Classifier
 
-This notebook implements a simple feed-forward neural network from scratch to classify handwritten digits from the MNIST dataset. The model is written in Python using NumPy and provides several features for training, testing, and visualization.
+This notebook implements a simple feed-forward neural network from scratch to classify handwritten digits from the MNIST dataset. The model is written in Python using NumPy and provides several features for training, testing, and visualization. The dataset was obtained from Kaggle
 
 ## Features
 - **Training**: Uses gradient descent to minimize cross-entropy loss and optimize the network's parameters.
